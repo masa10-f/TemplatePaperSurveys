@@ -2,8 +2,6 @@
 
 <!-- file name: first two "Authors" + "year" e.g. fukushima2023-->
 
-[back to the main page](../main.md)
-
 ## summary
 
 <!-- Describe the summary of the paper -->
@@ -15,3 +13,7 @@
 ## questions
 
 <!-- Describe all questions relating to the paper. -->
+
+---
+
+[back to the main page](../main.md)
