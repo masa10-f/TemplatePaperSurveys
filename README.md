@@ -1,5 +1,6 @@
-# TemplatePaperResearch
-A template repository for paper research.
+# TemplatePaperSurveys
+
+A template repository for paper surveys.
 
 ## Basic Usage
 
